@@ -34,3 +34,5 @@ c_cpp_properties.json o zawartości:
     ],
     "version": 4
 }
+
+Na późniejszym etapie pracowano w Arduino IDE i Visual Studio 2017 z wtyczką VisualMicro. Najnowszy kod jest kopią z repozytorium oryginalnego: https://github.com/kaloszyfer/RoboSpider
